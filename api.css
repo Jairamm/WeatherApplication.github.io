@@ -1,0 +1,30 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+    
+}
+
+body{
+    background-color: yellow;
+}
+li{
+    list-style-type:none;
+}
+.color-l{
+ background-color: yellow;
+}
+.bg-dark{
+    border-radius: 5px ;
+}
+.middle{
+font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+} 
+.navi:hover  {
+    color: red ;
+}
