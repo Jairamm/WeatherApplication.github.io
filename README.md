@@ -1,12 +1,12 @@
 # Weather Application
 
-![Weather App Banner](https://via.placeholder.com/1200x400?text=Weather+App+Banner)
+![Weather App Banner](/img.png)
 
 ## Overview
 
 This is a simple Weather Application built using HTML, CSS, and JavaScript. The application fetches weather data from an API and displays it to the user in a clean and responsive interface.
 
-![Weather App Screenshot](https://via.placeholder.com/800x600?text=Weather+App+Screenshot)
+![Weather App Screenshot]()
 
 ## Features
 
