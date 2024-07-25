@@ -6,7 +6,7 @@
 
 This is a simple Weather Application built using HTML, CSS, and JavaScript. The application fetches weather data from an API and displays it to the user in a clean and responsive interface.
 
-![Weather App Screenshot]()
+![Weather App Screenshot](https://www.weatherapi.com/)
 
 ## Features
 
